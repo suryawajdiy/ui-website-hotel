@@ -1,0 +1,22 @@
+# Cache
+*.cache
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.local
