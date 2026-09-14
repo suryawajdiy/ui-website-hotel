@@ -1,6 +1,6 @@
 # UI Website Hotel
 
-Website hotel yang dibangun menggunakan PHP, HTML, CSS, JavaScript, dan MySQL.
+A hotel website built using PHP, HTML, CSS, JavaScript, and MySQL.
 
 ## Preview
 
@@ -8,9 +8,9 @@ Website hotel yang dibangun menggunakan PHP, HTML, CSS, JavaScript, dan MySQL.
 
 ## About
 
-UI Website Hotel adalah website hotel yang dirancang untuk menampilkan informasi hotel secara profesional, responsif, dan mudah digunakan.
+UI Website Hotel is a hotel website designed to present hotel information in a professional, responsive, and user-friendly interface.
 
-Website ini mencakup informasi mengenai hotel, fasilitas, kamar, serta halaman kontak untuk memberikan pengalaman pengguna yang lebih baik.
+The website provides information about the hotel, facilities, rooms, and contact page to deliver a better user experience.
 
 ## Features
 
