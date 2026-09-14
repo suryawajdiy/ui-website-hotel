@@ -56,24 +56,3 @@ Website ini mencakup informasi mengenai hotel, fasilitas, kamar, serta halaman k
 ### Footer
 
 ![Footer](screenshots/footer.png)
-
-## Project Structure
-
-```text
-UI-WEBSITE-HOTEL/
-│
-├── admin/
-├── css/
-├── images/
-├── inc/
-├── svg/
-├── screenshots/
-│
-├── about.php
-├── contact.php
-├── facilities.php
-├── index.php
-├── rooms.php
-│
-├── .gitignore
-└── README.md
